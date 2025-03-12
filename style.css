@@ -1,0 +1,22 @@
+.tabela{
+    border-collapse:collapse;
+    width: 100%;
+}
+
+th,td{
+    border: 1px solid #000; 
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: Doto;
+
+}
+
+td:hover{
+    background-color: blanchedalmond;
+}
+
+th{
+    background-color: black;
+    color: aliceblue;
+}
